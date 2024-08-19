@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm a Software Developer from India</p>
+<p>I'm a Software Developer from India</p>
 
 ###
 
